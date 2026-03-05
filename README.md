@@ -86,8 +86,8 @@ Obesity/
 
 ```bash
 # Clone the repository
-git clone https://github.com/rosspeili/obesity-wrapper-methods.git
-cd obesity-wrapper-methods
+git clone https://github.com/rosspeili/obesity.git
+cd obesity
 
 # Setup Environment
 python -m venv .venv
